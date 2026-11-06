@@ -1,0 +1,144 @@
+Informe o nome do herói: Bem-vindo ao RPG: A Jornada de Eldoria!
+Herói: Lucas
+Criaturas invadiram as florestas, cavernas e o castelo de Eldoria.
+Sua missão é derrotar o Guardião Sombrio e salvar o reino.
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: 
+Fase: Floresta Sombria
+Monstro: Goblin | Vida: 30 | Ataque: 6 | Defesa: 1 | Ouro de recompensa: 10 | Experiência de recompensa: 20
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 14 de dano em Goblin.
+Goblin causou 1 de dano em Lucas.
+Vida do herói: 99 | Vida do monstro: 16
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 14 de dano em Goblin.
+Goblin causou 1 de dano em Lucas.
+Vida do herói: 98 | Vida do monstro: 2
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 14 de dano em Goblin.
+Vida do herói: 98 | Vida do monstro: 0
+Próxima fase desbloqueada: Caverna dos Ossos
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: 
+Fase: Caverna dos Ossos
+Monstro: Esqueleto | Vida: 45 | Ataque: 9 | Defesa: 2 | Ouro de recompensa: 20 | Experiência de recompensa: 40
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 13 de dano em Esqueleto.
+Esqueleto causou 4 de dano em Lucas.
+Vida do herói: 94 | Vida do monstro: 32
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 13 de dano em Esqueleto.
+Esqueleto causou 4 de dano em Lucas.
+Vida do herói: 90 | Vida do monstro: 19
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 13 de dano em Esqueleto.
+Esqueleto causou 4 de dano em Lucas.
+Vida do herói: 86 | Vida do monstro: 6
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 13 de dano em Esqueleto.
+Vida do herói: 86 | Vida do monstro: 0
+Próxima fase desbloqueada: Castelo das Sombras
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: 
+Fase: Castelo das Sombras
+Monstro: Guardião Sombrio | Vida: 75 | Ataque: 12 | Defesa: 3 | Ouro de recompensa: 50 | Experiência de recompensa: 100
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Lucas.
+Vida do herói: 79 | Vida do monstro: 63
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Lucas.
+Vida do herói: 72 | Vida do monstro: 51
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Lucas.
+Vida do herói: 65 | Vida do monstro: 39
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Lucas.
+Vida do herói: 58 | Vida do monstro: 27
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Lucas.
+Vida do herói: 51 | Vida do monstro: 15
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Lucas.
+Vida do herói: 44 | Vida do monstro: 3
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Lucas causou 12 de dano em Guardião Sombrio.
+Vida do herói: 44 | Vida do monstro: 0
+Lucas subiu para o nível 2!
+=====================================
+PARABÉNS, HERÓI!
+=====================================
+Você derrotou o Guardião Sombrio!
+O Reino de Eldoria foi salvo!
+Obrigado por jogar.

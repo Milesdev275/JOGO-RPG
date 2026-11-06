@@ -1,0 +1,322 @@
+QA;QA-001;Cadastro;Arthur, 100, 15, 5;Nível 1, ouro 30, poções 2;Nível 1, ouro 30, poções 2;Aprovado
+QA;QA-002;Compra de poção;30 ouro e preço 10;20 ouro e 3 poções;20 ouro e 3 poções;Aprovado
+QA;QA-003;Compra de arma;50 ouro, bônus 2;0 ouro e ataque 17;0 ouro e ataque 17;Aprovado
+QA;QA-004;Uso de poção;Vida 90, cura 20;Vida 100, consome 1;Vida 100, poções 2;Aprovado
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 14 de dano em Goblin.
+Goblin causou 1 de dano em Arthur.
+Vida do herói: 99 | Vida do monstro: 16
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 14 de dano em Goblin.
+Goblin causou 1 de dano em Arthur.
+Vida do herói: 98 | Vida do monstro: 2
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 14 de dano em Goblin.
+Vida do herói: 98 | Vida do monstro: 0
+QA;QA-005;Vitória em batalha;Arthur contra Goblin, 3 ataques;Vitória, herói 98, monstro 0;Vitória true, herói 98, monstro 0;Aprovado
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 14 de dano em Goblin.
+Goblin causou 1 de dano em Arthur.
+Vida do herói: 0 | Vida do monstro: 16
+QA;QA-006;Derrota;Herói com 1 de vida;Derrota e vida 0;Vitória false, vida 0;Aprovado
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Você fugiu. Nenhuma recompensa recebida.
+QA;QA-007;Fuga;Opção 3;Sem recompensa e sem dano;Ouro 30, vida 100, inimigo 30;Aprovado
+Arthur subiu para o nível 2!
+Arthur subiu para o nível 3!
+QA;QA-008;Subida de nível;300 XP no nível 1;Nível 3, ataque 21, vida 120, XP 0;Nível 3, ataque 21, vida 120, XP 0;Aprovado
+Bem-vindo ao RPG: A Jornada de Eldoria!
+Herói: Arthur
+Criaturas invadiram as florestas, cavernas e o castelo de Eldoria.
+Sua missão é derrotar o Guardião Sombrio e salvar o reino.
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: Entrada inválida. Digite um número.
+Opção inexistente. Escolha de 1 a 5.
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: Entrada inválida. Digite um número.
+Opção inexistente. Escolha de 1 a 5.
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: Opção inexistente. Escolha de 1 a 5.
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: Jogo encerrado. Até a próxima jornada!
+QA;QA-009;Entrada inválida;abc, @, 100 e 5;Permite nova tentativa e encerra com 5;Em execução false, vida 100;Aprovado
+Bem-vindo ao RPG: A Jornada de Eldoria!
+Herói: Arthur
+Criaturas invadiram as florestas, cavernas e o castelo de Eldoria.
+Sua missão é derrotar o Guardião Sombrio e salvar o reino.
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: 
+Fase: Floresta Sombria
+Monstro: Goblin | Vida: 30 | Ataque: 6 | Defesa: 1 | Ouro de recompensa: 10 | Experiência de recompensa: 20
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 14 de dano em Goblin.
+Goblin causou 1 de dano em Arthur.
+Vida do herói: 99 | Vida do monstro: 16
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 14 de dano em Goblin.
+Goblin causou 1 de dano em Arthur.
+Vida do herói: 98 | Vida do monstro: 2
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 14 de dano em Goblin.
+Vida do herói: 98 | Vida do monstro: 0
+Próxima fase desbloqueada: Caverna dos Ossos
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: 
+Fase: Caverna dos Ossos
+Monstro: Esqueleto | Vida: 45 | Ataque: 9 | Defesa: 2 | Ouro de recompensa: 20 | Experiência de recompensa: 40
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 13 de dano em Esqueleto.
+Esqueleto causou 4 de dano em Arthur.
+Vida do herói: 94 | Vida do monstro: 32
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 13 de dano em Esqueleto.
+Esqueleto causou 4 de dano em Arthur.
+Vida do herói: 90 | Vida do monstro: 19
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 13 de dano em Esqueleto.
+Esqueleto causou 4 de dano em Arthur.
+Vida do herói: 86 | Vida do monstro: 6
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 13 de dano em Esqueleto.
+Vida do herói: 86 | Vida do monstro: 0
+Próxima fase desbloqueada: Castelo das Sombras
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: 
+Fase: Castelo das Sombras
+Monstro: Guardião Sombrio | Vida: 75 | Ataque: 12 | Defesa: 3 | Ouro de recompensa: 50 | Experiência de recompensa: 100
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Arthur.
+Vida do herói: 79 | Vida do monstro: 63
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Arthur.
+Vida do herói: 72 | Vida do monstro: 51
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Arthur.
+Vida do herói: 65 | Vida do monstro: 39
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Arthur.
+Vida do herói: 58 | Vida do monstro: 27
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Arthur.
+Vida do herói: 51 | Vida do monstro: 15
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 12 de dano em Guardião Sombrio.
+Guardião Sombrio causou 7 de dano em Arthur.
+Vida do herói: 44 | Vida do monstro: 3
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 12 de dano em Guardião Sombrio.
+Vida do herói: 44 | Vida do monstro: 0
+Arthur subiu para o nível 2!
+=====================================
+PARABÉNS, HERÓI!
+=====================================
+Você derrotou o Guardião Sombrio!
+O Reino de Eldoria foi salvo!
+Obrigado por jogar.
+QA;QA-010;Chefe final;Três fases, apenas ataques;3 fases concluídas e campanha encerrada;Fases 3, em execução false;Aprovado
+QA;QA-011;Recompensa única;Repetir avanço e recompensa;Ouro e XP inalterados;Ouro 110, XP 60;Aprovado
+
+LOJA DE ELDORIA | Ouro: 30
+1 - Poção Pequena: 10 de ouro
+2 - Espada de Madeira (+2): 50 de ouro
+3 - Espada de Ferro (+8): 150 de ouro
+0 - Voltar
+Compra realizada!
+
+LOJA DE ELDORIA | Ouro: 20
+1 - Poção Pequena: 10 de ouro
+2 - Espada de Madeira (+2): 50 de ouro
+3 - Espada de Ferro (+8): 150 de ouro
+0 - Voltar
+Compra recusada: verifique seu ouro e o produto.
+
+LOJA DE ELDORIA | Ouro: 20
+1 - Poção Pequena: 10 de ouro
+2 - Espada de Madeira (+2): 50 de ouro
+3 - Espada de Ferro (+8): 150 de ouro
+0 - Voltar
+QA;QA-012;Menu da loja;Comprar poção, tentar arma e voltar;Ouro 20, poções 3, sem arma;Ouro 20, poções 3;Aprovado
+Bem-vindo ao RPG: A Jornada de Eldoria!
+Herói: Arthur
+Criaturas invadiram as florestas, cavernas e o castelo de Eldoria.
+Sua missão é derrotar o Guardião Sombrio e salvar o reino.
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: Jogo encerrado. Até a próxima jornada!
+QA;QA-013;Fim de entrada;Terminal sem novas linhas;Encerra sem laço infinito;Em execução false;Aprovado
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Entrada inválida. Digite 1, 2 ou 3.
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Opção inexistente. Escolha 1, 2 ou 3.
+Vida do herói: 100 | Vida do monstro: 30
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Não foi possível usar a poção.
+Vida do herói: 100 | Vida do monstro: 30
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Você fugiu. Nenhuma recompensa recebida.
+QA;QA-014;Ação inválida em batalha;Texto, opção inexistente e poção com vida cheia;Nenhum contra-ataque;Vida 100, poções 2;Aprovado
+Bem-vindo ao RPG: A Jornada de Eldoria!
+Herói: Arthur
+Criaturas invadiram as florestas, cavernas e o castelo de Eldoria.
+Sua missão é derrotar o Guardião Sombrio e salvar o reino.
+
+================================
+RPG - ELDORIA
+================================
+1 - Ver status do herói
+2 - Explorar / Lutar
+3 - Abrir inventário
+4 - Visitar loja
+5 - Sair do jogo
+Escolha uma opção: 
+Fase: Floresta Sombria
+Monstro: Goblin | Vida: 30 | Ataque: 6 | Defesa: 1 | Ouro de recompensa: 10 | Experiência de recompensa: 20
+
+1 - Atacar
+2 - Usar poção
+3 - Fugir
+Escolha uma ação: Arthur causou 14 de dano em Goblin.
+Goblin causou 1 de dano em Arthur.
+Vida do herói: 0 | Vida do monstro: 16
+=====================================
+GAME OVER
+=====================================
+Seu herói foi derrotado. Sua jornada terminou...
+QA;QA-015;GAME OVER;Herói com 1 de vida explora e ataca;Encerra por morte, fase não concluída;Vida 0, fase 0;Aprovado
